@@ -1,0 +1,32 @@
+D Root / 2024-01-08--23:02:05
+D subdir1 /subdir1/ 2024-01-08--23:02:53
+D zerdaDir /subdir1/zerdaDir/ 2024-01-08--23:04:10
+R zerda.txt /subdir1/zerdaDir/zerda.txt 2024-01-09--13:51:38 33
+my name is zerda
+surname is gül
+
+R zerda.txt /subdir1/zerda.txt 2024-01-09--20:29:11 33
+my name is zerda
+surname is gül
+
+D subdir2 /subdir2/ 2024-01-08--23:02:59
+R zerda.txt /subdir2/zerda.txt 2024-01-09--20:30:12 33
+my name is zerda
+surname is gül
+
+S mySoft1 /subdir2/mySoft1 2024-01-09--21:26:10 /subdir3/subdir1/zerda.txt
+D subdir3 /subdir3/ 2024-01-08--23:05:39
+D subdir1 /subdir3/subdir1/ 2024-01-08--23:05:51
+R zerda.txt /subdir3/subdir1/zerda.txt 2024-01-08--23:05:51 33
+my name is zerda
+surname is gül
+
+D zerdaDir /subdir3/subdir1/zerdaDir/ 2024-01-08--23:05:51
+R kübra.txt /subdir3/kübra.txt 2024-01-09--17:11:02 41
+adana
+eskişehir
+şanlıurfa
+diyarbakır
+
+D myDir /subdir3/myDir/ 2024-01-09--17:12:46
+D subdir4 /subdir4/ 2024-01-09--21:06:18

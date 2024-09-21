@@ -1,0 +1,11 @@
+pID,Type,Name,Brand,Price,Weight
+1,D,Ayran,Torku,20.50,None
+2,F,Simit,Firin,8.00,None
+3,C,Deterjan,Ariel,35.00,None
+4,D,Kola,Pepsi,12.00,None
+5,F,Kek,ulker,9.00,None
+6,C,Sabun,Lux,12.00,None
+7,O,Mum,Torku,18.00,None
+8,F,Makarna,Torku,20.00,None
+9,O,Silgi,Torku,5.00,None
+10,O,Pencil,Faber,8.90,None
